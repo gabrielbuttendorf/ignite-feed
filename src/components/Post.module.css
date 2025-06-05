@@ -122,3 +122,7 @@
 .commentForm footer > button[type="submit"]:focus {
   outline-color: var(--green-300)
 }
+
+.commentList {
+  margin-top: 2rem;
+}
