@@ -14,7 +14,7 @@ export function Post() {
           </div>
         </div>
 
-        <time title="24 de Maio às 21:20" datetime="2025-05-24 21:20:15">
+        <time title="24 de Maio às 21:20" dateTime="2025-05-24 21:20:15">
           Publicado hà 1h
         </time>
       </header>
